@@ -6,7 +6,7 @@
   "name": "Reload Audio Driver",
   "description": "Reloads the audio driver when pressing F3 + R.",
   "authors": [
-    "CJMinecraft01", "JayJay1989BE"
+    "CJMinecraft01", "JayJay1989BE", "Flero"
   ],
   "contact": {
     "homepage": "https://github.com/CJMinecraft01",
@@ -30,7 +30,7 @@
   "depends": {
     "fabricloader": ">=0.14.0",
     "fabric": "*",
-    "minecraft": "1.19.x"
+    "minecraft": "1.20.1"
   },
   "suggests": {
     "flamingo": "*"
